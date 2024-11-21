@@ -42,5 +42,5 @@ button.addEventListener('click', function () {
     }
     setTimeout(function() {
         input.value = '';
-    }, 1000);
+    }, 3000);
 });
